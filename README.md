@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AsmitaGangdhar
 - 👀 I’m interested in coding,sketching
-- 💞️ I’m looking to collaborate on Data Analysis
+- 💞️ I’m looking to collaborate on Full Stack Java Development
 - 📫 How to reach me (asmitagangdhar2017@gmail.com)
 - 😄 Pronouns: Smita
 
